@@ -1,2 +1,2 @@
-# eda_london_boroughs_crime
-Exploratory data analysis with Python.
+# Exploratory data analysis with Python
+## London boroughs crime data
